@@ -1,0 +1,25 @@
+/* WhatsApp Cart Button styles */
+
+.whatsapp-cart-button {
+    margin: 20px 0;
+}
+
+.whatsapp-cart-button a {
+    display: inline-block;
+    background-color: #25D366;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.whatsapp-checkout-button a {
+    display: inline-block;
+    background-color: #25D366;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
